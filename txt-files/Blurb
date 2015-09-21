@@ -1,0 +1,25 @@
+A game which simulates the opening sequence of the Christopher Nolan film, 'The Dark Knight'.
+The player plays as one of the Joker's henchman. The decisions they make will determine whether the
+mission (to rob the bank) is accomplished and, ultimately, whether they survive the 'Clown Prince of Crime's'
+fiersome reputation for killing his own men as soon as they complete the work that he assigns them.
+ 
+The player is able to carry two objects with them at any one time. These can be any of the following: 
+	Mask (CLOTHING), 
+	Grenades (WEAPON), 
+	Gun (WEAPON), 
+	Knife (WEAPON), 
+	Car_Keys (TOOL), 
+	Drill (TOOL), 
+	Bulletproof_vest (CLOTHING)
+The player is only able to make use of one WEAPON or TOOL item at any one time. This is know as 
+the item 'at hand'; the other being the item 'in pocket'. CLOTHING items are worn as they are acquired.
+ 
+The player is able to move between 5 different rooms. These are the following:
+	West Van Buren St,
+	Van,
+	Gotham National Bank (Main Hall),
+	Gotham National Bank (Outside Safe),
+	Gotham National Bank (Inside Safe),
+	School Bus
+The player can choose to move between adjacent rooms at any time. Their choices however may influence the outcome
+of the mission and could prevent them from progressing in the game.

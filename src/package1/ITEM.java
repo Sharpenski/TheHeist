@@ -1,0 +1,5 @@
+package package1;
+
+public enum ITEM {
+	MASK, GRENADES, GUN, KNIFE, CAR_KEYS, DRILL, BULLETPROOF_VEST
+}
